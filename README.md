@@ -12,7 +12,6 @@ A modern and feature-rich boilerplate for building React Native applications wit
 - **🎨 NativeWind**: Utility-first styling for React Native, powered by Tailwind CSS.
 - **📦 Redux Toolkit**: Simplified state management with powerful tools.
 - **🔀 Expo Router**: File-based routing system for React Native apps.
-- **📚 TanStack Query (React Query)**: Powerful server-state management and caching.
 - **🔒 Expo Secure Store**: Secure storage for sensitive data.
 - **📦 Iconsax+Expo Vector Icons**: Modern and customizable icon library.
 - **🧹 ESLint & Prettier**: Enforce consistent code style and formatting.
@@ -77,9 +76,6 @@ yarn start or npx expo start
 
 ### Expo Router
 - File-based routing system for structuring navigation in React Native apps.
-
-### TanStack Query (React Query)
-- Handles server-state management, caching, and synchronization with ease.
 
 ### Expo Secure Store
 - Provides a secure storage solution for sensitive user data.
