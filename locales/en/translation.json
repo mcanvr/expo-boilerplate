@@ -1,0 +1,6 @@
+{
+  "increase": "Increase",
+  "decrease": "Decrease",
+  "reset": "Reset",
+  "count": "Count: {{count}}"
+}
