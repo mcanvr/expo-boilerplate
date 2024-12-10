@@ -52,7 +52,7 @@ yarn start or npx expo start
 ├── screens/               # Application screens
 ├── store/                 # Redux Toolkit setup and slices
 ├── utils/                 # Utility functions and helpers
-├── i18n/                  # i18next configuration and translation files
+├── locales/               # i18next configuration and translation files
 ├── .eslintrc.js           # ESLint configuration
 ├── app.json               # Expo Config
 ├── App.tsx                # Entry point of the application
